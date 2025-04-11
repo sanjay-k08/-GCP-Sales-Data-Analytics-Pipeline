@@ -76,4 +76,9 @@ Secure GCS and BigQuery with IAM permissions.
 Use Cloud Scheduler or Pub/Sub for scheduling or expanding automation.
 
 Monitor with Cloud Logging and Error Reporting.
+
+
+![salesetl](https://github.com/user-attachments/assets/97df0f6e-f681-4a80-98e7-fcd0b6c6cb5c)
+
+
    
